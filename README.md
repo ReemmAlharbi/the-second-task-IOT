@@ -13,5 +13,7 @@ top@
 ```
 make sure the baudrate is 115200
 -----
-
+also you can see in this file the arduino code for control. 
+#arduino.js
+#arduino.ino
 made by Reem 
